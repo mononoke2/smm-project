@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: steamapi
+Version: 0.1
+Summary: An object-oriented Python 2.7+ library for accessing the Steam Web API
+Home-page: https://github.com/smiley/steamapi
+Author: Smiley
+Author-email: 
+License: MIT
+Platform: UNKNOWN
+License-File: LICENSE
+
+UNKNOWN
+
